@@ -10,4 +10,4 @@ A host machine that has a virtual machine running inside of it
 ### NAT VS Bridged connection 
 * Data goes out and it is recognized inormation is added and sent back.
 * Nat remembers the information so it can be sent back to you
-* Nat can happen on wifi or within a host conputer 
+* Nat can happen on wifi or within a host 
