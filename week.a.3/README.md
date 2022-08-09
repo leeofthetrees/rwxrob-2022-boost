@@ -1,4 +1,4 @@
-# Week 3
+# Week 3 / SSH & Networking Examples
 
 What is the console?  'Either a phywical phyical console or a digital equivalent,' 
 * the phywical thing in front of you
@@ -13,8 +13,17 @@ addtl info unrelated:
 * i am assuming that we are connectiong Windows Terminal to a Virtual Machine
 
 daemon- "serving me" program running on computer all the time
-*listens all the time for incoming connections
+ * **listens all the time for incoming connections**
 
 stateful connection-
-*the connection is kept open
+* **the connection is kept open**
+* a stateful network socket connection
 
+client 
+* wants to dial up and talk to a server
+* is something that want to dial into a server and keep a connection
+VS a browser connects to a website and then done. (It doesn't maintain the connection)
+
+https://www.youtube.com/watch?v=Pfk-KxO3in8&t=15772s
+
+  #console #connection #stateful #client #browser #server #daemon
