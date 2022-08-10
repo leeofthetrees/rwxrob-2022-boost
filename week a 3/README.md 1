@@ -1,7 +1,0 @@
-# Week #
-
-
-IF you try to initiate a connection with a private virtual machine that has a NAT connection, you can't because you can't see it. a tunnel is needed
-changing to a bridge adapter from a NAT adapter instead of the virtual machine being inside of the virtual machine.  the network thinks the virtual
-machine is next to the computer or host.  In bridge as far as the network is concerned the virtual machine is next to the host (comuputer)
-* when the connection is changed to bridge, the IP address changes for the vm
