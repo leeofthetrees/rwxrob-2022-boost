@@ -18,6 +18,8 @@
   * cd../..-change to the relative parent directory of the parent directory
   * cd -change to previous directory
   * cd / -change to root directory
+  * ip a - show all IP address
+  * clear - clears the machine 
   
   
   
