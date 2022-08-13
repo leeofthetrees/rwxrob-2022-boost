@@ -10,4 +10,6 @@
 ### NAT vs Bridged Connection
 - NAT: Network Address Translation -routed connection with information packets 
 - Bridge connection next to NAT inside, Bridge connection changes the IP Address
+- NAT is a more secure connection 
 - IP address is going to give the SSH connection 
+- How to test SSH connection to localhost?
