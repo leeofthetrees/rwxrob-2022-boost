@@ -27,6 +27,7 @@
   + users -short name of all logged in users 
   * last -summary of last logged in users 
   * 'w' -display logger version of who is logged in
+  * ipconfig - show ip address
   
   
   
