@@ -13,3 +13,6 @@
 - NAT is a more secure connection 
 - IP address is going to give the SSH connection 
 - How to test SSH connection to localhost?
+
+The only way to get an actual ttu is if the console is plugged into the machine
+   otherwise the connection is pts 
