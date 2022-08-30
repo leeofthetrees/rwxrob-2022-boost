@@ -29,8 +29,9 @@
   * 'w' -display logger version of who is logged in
   * ipconfig - show ip address
   * exit - exit the current program or login or shell
-  
-  
-  
+  * | less or | to more to see stuff scrolling off the screen 
+      (f, n scrolls through stuff 
+  * <CTRL> c interrupt whatever (exit)
+  * <CTRL> d send "end of data file"
   
   
