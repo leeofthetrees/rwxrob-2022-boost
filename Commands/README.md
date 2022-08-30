@@ -28,6 +28,7 @@
   * last -summary of last logged in users 
   * 'w' -display logger version of who is logged in
   * ipconfig - show ip address
+  * exit - exit the current program or login or shell
   
   
   
