@@ -2,6 +2,7 @@
 - notes on slip of paper in a box
 - personal knowledge graft 
 - 25-50 Unicode Characters 
+- read Zettlekastens often
 
 
 
