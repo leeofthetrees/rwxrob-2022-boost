@@ -19,6 +19,8 @@ CLI-is a text based user interface
   On most Linux systems a program called bash (which stands for Bourne Again SHell, an enhanced version of the original Unix shell program, sh, written by Steve Bourne) acts as the shell program. Besides bash, there are other shell programs available for Linux systems. These include: ksh, tcsh and zsh."
 * Differnet languages with the computer.  
 * Interface between human and the innerpart of the computer 
+* Gui can be used as the shell instead of CLI
+* CLI and GUI programs are shells that interact with the kernal to communicate with the hardware
 
 
 Ed- Unix interaface can be used if system is compromised between ttyland CLI 
