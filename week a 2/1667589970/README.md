@@ -38,6 +38,8 @@ Make a rootkit that is untraceable do not use TTU
 * Watch Videos about Terminal or tty teleprint, teletype, morris code, binary,
   on and off switches 
 * Watch videos or find some introduction to Ed or Unix Editor
+* Maybe research NeoVim
+
     
     
     
