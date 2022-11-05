@@ -21,9 +21,10 @@ CLI-is a text based user interface
 * Interface between human and the innerpart of the computer 
 * Gui can be used as the shell instead of CLI
 * CLI and GUI programs are shells that interact with the kernal to communicate with the hardware
+* Without a shell system calls would be needed in C
 
 
-Ed- Unix interaface can be used if system is compromised between ttyland CLI 
+CLI can be used to get into another computer without having a terminal
 
 ## Practice
 * Watch Videos about Terminal or tty teleprint, teletype, morris code, binary,
