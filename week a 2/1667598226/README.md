@@ -1,6 +1,5 @@
 # Unix / Linux 
 
-## Unix VS. Linux 
 * Minix is a free version of Unix 
 * Linus Torvalds improved upon Minix 
 * BSD - highly secure, open BSD
