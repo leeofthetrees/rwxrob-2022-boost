@@ -14,6 +14,4 @@ Security Professionas
 * Linus Torvalds improved upon Minix 
 
 
-
-
 https://www.youtube.com/watch?v=HgtRAbE1nBM
