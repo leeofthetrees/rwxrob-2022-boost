@@ -22,9 +22,17 @@ CLI-is a text based user interface
 * Gui can be used as the shell instead of CLI
 * CLI and GUI programs are shells that interact with the kernal to communicate with the hardware
 * Without a shell system calls would be needed in C
+ 
+ CLI can be used to get into another computer without having a terminal  
+ 
+
+## TTY and hacking
+Back door vulnerabilities should NOT use TTY when hacking
+TTY cam be traced, Dont use it
+ex: printer that hadn't been closed. 
+Make a rootkit that is untraceable do not use TTU
 
 
-CLI can be used to get into another computer without having a terminal
 
 ## Practice
 * Watch Videos about Terminal or tty teleprint, teletype, morris code, binary,
