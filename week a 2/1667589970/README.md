@@ -39,9 +39,9 @@ CLI can be used to get into another computer without having a terminal
     
     
     https://en.wikipedia.org/wiki/Computer_terminal
-    ---
+    
     https://en.wikipedia.org/wiki/Teleprinter
-    ---
+    
     https://www.techtarget.com/searchwindowsserver/definition/command-line-interface-CLI
-    ---
+    
     https://replit.com/
