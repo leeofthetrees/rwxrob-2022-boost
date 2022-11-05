@@ -1,17 +1,25 @@
-# TTY and hacking
+# General Notes
+
+## TTY and hacking
 Back door vulnerabilities should NOT use TTY when hacking
 TTY cam be traced, Dont use it
 ex: printer that hadn't been closed. 
 Make a rootkit that is untraceable do not use TTU
 
-# Purpose of Boost to Produce:
+## Purpose of Boost to Produce:
 Back End Developers  
 Infrastructure Engineer  
 Security Professionas
 
-# Unix VS. Linux 
+## Unix VS. Linux 
 * Minix is a free version of Unix 
 * Linus Torvalds improved upon Minix 
+* BSD - highly secure, open BSD
+Search "Linux Pedigree"
 
+## Commands
+* sudo - do this as root or super user
+* grep - search text and string files
+* apt - package manager for debian
 
 https://www.youtube.com/watch?v=HgtRAbE1nBM
