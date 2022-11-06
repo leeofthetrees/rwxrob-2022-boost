@@ -9,8 +9,10 @@ user@host:
 - host name stored in a file name etsy
 - everything after the colon is the path
   " everthing after the colon is the current path to where I am in the file system."
-  
- inode is an entry in a table
+ 
+ 
+# What's a directory
+* inode is an entry in a table
  A directory is a table of inodes
  "A directory is a rooted node tree" -
  computer science = node = data science and algorithms 
@@ -23,6 +25,9 @@ user@host:
  
  Root Directory = example: This PC in Windows 
  Root or Home = where all my stuff is 
+ 
+ package - applications that have been packaged up for install  
+ command line package manager: brew on mac, chocolatey on Windows 
  
 
 ## Commands
@@ -43,6 +48,7 @@ apt get and apt cache for script and permanent programs
 * pwd - shows what directory I am in.
 * "cd -" - change to previous directory
 * "cd  ~" - change to home directory
+* apt search neo 
 
 ## Learning 
 Boost geared towards
