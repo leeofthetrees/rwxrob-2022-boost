@@ -18,5 +18,6 @@ apt get and apt cache for script and permanent programs
 * "cd -" - change to previous directory
 * "cd  ~" - change to home directory
 * apt search neo 
-
+* sudo apt remove neofetch - removes that package 
+* sudo apt autoremove neofetch - removes that package and all of its dependencies 
 
