@@ -64,6 +64,10 @@ upgrade OS prevent hacking
 
 
 ## Practice 
-* Research BDS and Linux pedigree
+* Research BDS and Linux pedigree  
+
+
+
+
 https://www.youtube.com/watch?v=HgtRAbE1nBM
 
