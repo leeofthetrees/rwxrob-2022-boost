@@ -37,7 +37,19 @@ user@host:
 (-la and -al appear to be the same command)
 apt for command line for interactive use
 apt get and apt cache for script and permanent programs
-cd/ = change directory 
+* "cd /" = change directory 
+* "cd .". = change into the parent directory
+* "cd ../.." = change into the parent of the parent directory 
+* pwd - shows what directory I am in.
+* "cd -" - change to previous directory
+* "cd  ~" - change to home directory
+
+## Learning 
+Boost geared towards
+Back end developers
+infrastructure Engineers
+Security 
+Bash and Go - one interpretive language and one compiled
 
 
 wifi is easy to hack using brute force password
