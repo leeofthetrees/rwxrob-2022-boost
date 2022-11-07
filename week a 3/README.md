@@ -16,3 +16,9 @@
 
 The only way to get an actual ttu is if the console is plugged into the machine
    otherwise the connection is pts 
+ip a - show all ip addresses (ipconfig /all windows)
+clear - clears screen
+which - path to ssh
+type - "type of thing it is" displays more info than which 
+who - displays who is logged in and how 
+users - shortname of all logged in users 
