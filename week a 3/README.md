@@ -36,5 +36,6 @@ The only way to get an actual ttu is if the console is plugged into the machine
 * | less | more - scrolling option 
 * <ctrl> c - to interrupt
 * <ctrl> d - semd end of data file
-Sudo apt install
+* Sudo apt install
+* 
      
